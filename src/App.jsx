@@ -5,7 +5,7 @@ import Footer from "./Footer";
 import Note from "./Note";
 
 function App(){
-    return <div className="body">
+    return <div>
         <Header />
         <Note />
         <Footer />
